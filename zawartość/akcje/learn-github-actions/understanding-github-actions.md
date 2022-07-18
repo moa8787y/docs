@@ -1,3 +1,4 @@
+![Icon](https://user-images.githubusercontent.com/109192811/179482870-fe4de0ee-bdbc-4a09-abd5-ae811a6dbc7c.png)
 ---
 title: Understanding GitHub Actions
 shortTitle: Understanding GitHub Actions
