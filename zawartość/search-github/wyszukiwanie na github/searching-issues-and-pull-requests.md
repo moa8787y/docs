@@ -1,3 +1,4 @@
+![Icon](https://user-images.githubusercontent.com/109192811/179477545-99b29abe-f4c7-413c-964d-15c6d57716a2.png)
 ---
 title: Searching issues and pull requests
 intro: 'You can search for issues and pull requests on {% data variables.product.product_name %} and narrow the results using these search qualifiers in any combination.'
